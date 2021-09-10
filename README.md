@@ -74,7 +74,9 @@ To get a local copy up and running follow these simple example steps.
    ```
 2. Install NPM packages
    ```sh
-   npm install
+   cd backend
+   npm build
+   npm start
    ```
 
 
